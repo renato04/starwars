@@ -1,0 +1,13 @@
+vars.tfvars
+
+*.zip
+
+*/localstack_tmp
+
+.terraform
+.terraform*/*
+.terraform.*
+terraform*
+
+modules
+__pycache__
